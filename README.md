@@ -1,6 +1,7 @@
 # <img src="https://i.ibb.co/xHp7JFB/diskliverezised.png" alt="drawing" width="30"/> LiveDisk
 LiveDisk is a simple Windows tool to monitor disk space live, without having to right click and refresh. It natively supports Windows 7-10. It supports any kind of disk and allows displaying in Bytes, Kilobytes, Megabytes, Gigabytes, and Terabytes.
 
+
 ## Live Space Updating
 Are you worried that this big install might fail because of your almost free drive? (*cough* CUDA *cough*) Well, just use LiveDisk to watch how much space you have left live. And yes, it is live, it updates every 5 milliseconds.
 
@@ -16,7 +17,3 @@ You can install using the zip file or the installer exe, no Python install requi
 Extract all and run "LiveDisk.exe"
 **Exe Installer:**
 Run the installer and go through setup process.
-
----
-
-That's pretty much it! Enjoy!
