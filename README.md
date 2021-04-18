@@ -1,6 +1,7 @@
-# <img src="https://i.ibb.co/xHp7JFB/diskliverezised.png" alt="drawing" width="30"/> LiveDisk
+# <img src="https://i.ibb.co/xHp7JFB/diskliverezised.png" alt="livediskicon" width="30"/> LiveDisk
 LiveDisk is a simple Windows tool to monitor disk space live, without having to right click and refresh. It natively supports Windows 7-10. It supports any kind of disk and allows displaying in Bytes, Kilobytes, Megabytes, Gigabytes, and Terabytes.
 
+<p align="center"><img src="https://i.ibb.co/Y8HQMB5/python-YPLidu-Uy4z.png" alt="livediskinterface" width="50%"></p>
 
 ## Live Space Updating
 Are you worried that this big install might fail because of your almost free drive? (*cough* CUDA *cough*) Well, just use LiveDisk to watch how much space you have left live. And yes, it is live, it updates every 5 milliseconds.
